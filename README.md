@@ -30,7 +30,7 @@ I'm Donata, live in Poland. I'm in the process of exploring the amazing Frontend
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonataB&layout=compact&count_private=true&theme=tokyonight" />
 <br><br>
-<img src="https://wakatime.com/share/@Donata/6438919d-8864-4165-a84e-cb9a3affd0da.svg" height="350">
+<!-- <img src="https://wakatime.com/share/@Donata/6438919d-8864-4165-a84e-cb9a3affd0da.svg" height="350"> -->
 
 
 
