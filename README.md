@@ -16,9 +16,9 @@ I'm Donata, live in Poland. I'm in the process of exploring the amazing Frontend
 
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/olafsulich/) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink) ![Javascript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330) ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/olafsulich/) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink) ![Javascript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330) ![React](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330) ![Typescript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330) ![Node.js](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330) 
 
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black)
+ ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black)
   
 <br>
 
