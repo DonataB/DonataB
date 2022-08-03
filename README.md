@@ -8,7 +8,7 @@ I'm Donata, live in Poland. I'm in the process of exploring the amazing Frontend
 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donata-bruderek-10732a17b/)](https://www.linkedin.com/in/donata-bruderek-10732a17b/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:donataqbruderek@gmail.com)](mailto:donataqbruderek@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donata-bruderek-10732a17b/)](https://www.linkedin.com/in/donata-bruderek-10732a17b/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dbruderek.dev@gmail.com)](mailto:dbruderek.dev@gmail.com)
 
 <br>
 
